@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "nomclient": "Safidy",
+    "numeroFacture": 1234,
+    "produit": "poisson sec",
+    "qt": 11,
+    "prixUnitaire": 22000,
+    "modePaiement": "BNI"
+    
+    
+}
